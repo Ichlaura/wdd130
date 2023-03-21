@@ -1,3 +1,39 @@
+
+/* Class Selectors */
+      
+main img {
+  /* you most likely will have other declarations here */
+  float: right;
+}
+
+.box {
+  margin: 1rem;
+  border: 1px solid rgba(0,0,0,.1);
+  padding: 1rem;
+  background-color: #ddd;
+  color: #000;
+}
+
+aside {
+  width: 20em;
+  text-align: center;
+}
+
+/* otro apartado */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+aside h2 {
+  position: absolute;
+  top: 47px;
+  left: 150px;
+}
+
+
+
+
 aside {
     width: 20em;
     margin: 1em;
