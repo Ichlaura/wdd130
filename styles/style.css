@@ -170,3 +170,21 @@ header{
     font-size: 2em;
     margin-top: 10px;
 }
+body{
+    background-color: #327559;
+    font-family: Calibri, Candara, Segoe;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: grid;
+    grid-template-columns: 150px auto;
+    background-color: #284c40;
+}
+.home-title {
+    color: #b4b9ab;
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
